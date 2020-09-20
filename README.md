@@ -1,6 +1,6 @@
 # JMC DynamicShipping
 
-    ``jmc/module-dynamicshipping``
+Dynamic shipping methods for Magento2
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
